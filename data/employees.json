@@ -1,0 +1,13 @@
+[
+    {
+        "id" : 1,
+        "first" : "Canberk",
+        "last": "Pitirli"
+    },
+
+    {
+        "id" : 2,
+        "first" : "Anan",
+        "last": "Baban"
+    }
+]
